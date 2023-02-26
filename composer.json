@@ -1,0 +1,19 @@
+{
+    "name": "composer/test",
+    "description": "composer\u0000\u000023",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Composer\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yang Zhiyi",
+            "email": "1716234426@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
